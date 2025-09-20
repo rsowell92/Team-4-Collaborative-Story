@@ -1,0 +1,7 @@
+# chapter_2.py
+
+# The dragon tried the next door and to his surprise the key fit
+
+def right_door():
+  print("The dragon approached the next door and unlike the first door he tried, this one did not byte.")
+  print("He inserted the key into the lock and heards the Windows chime. The door swung open and the dragon's arch nemesis appeared!")
