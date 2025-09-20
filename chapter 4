@@ -1,0 +1,11 @@
+# chapter_4.py
+
+# In the far lands a dragon lived
+
+# It was fierce and had fiery breath
+
+def introduce_character():
+print("I have come to slay you, dragon! ")
+print("I will end your reign! ") 
+
+introduce_character()
