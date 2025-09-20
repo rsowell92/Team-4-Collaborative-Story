@@ -1,0 +1,16 @@
+# chapter_2.py
+# Chapter 2: The Dragon Key
+# Notes: Name: Nelson Craft
+# Summary: The museum's dragon statue reveals a hidden compartment and a dragon-shaped key.
+
+def chapter_two():
+    print("A soft voice echoed through the museum.")
+    print("The dragon statue's chest began to open slowly, revealing a hidden compartment.")
+    print("Inside was a key shaped like a dragon, its single empty socket waiting.")
+    print("The air tightened; distant security shutters hissed as they started to lower.")
+    print("I reached in—warmth pulsed through the metal, like a heartbeat.")
+    print("Somewhere above, a sensor chimed: 'Unauthorized access detected.'")
+    print("I clutched the dragon key and whispered, 'Alright... show me the door you belong to.'")
+
+if __name__ == "__main__":
+    chapter_two()
