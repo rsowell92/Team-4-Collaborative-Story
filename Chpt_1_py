@@ -1,0 +1,9 @@
+#Chapter_1.py
+# The statue began flickered three times with a loud ringing noise , then stopped. 
+
+def chapter_one(): 
+     print("A soft voice echoed through the museum.") 
+     print("The dragom statue’s began to open slowly, revealing a hidden compartment.") 
+     print("Inside was a key in a shape of a dragon with a.. waiting.") 
+     
+     chapter_one()
